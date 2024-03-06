@@ -22,6 +22,6 @@
 <div align="center">
   
 <!-- most used language -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/kodh0206/github-readme-stats) <!-- Github Status --> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delay-100&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodh0206&layout=compact)](https://github.com/kodh0206/github-readme-stats) <!-- Github Status --> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kodh0206&show_icons=true&theme=dracula)
 
 </div>
