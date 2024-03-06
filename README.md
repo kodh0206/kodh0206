@@ -22,6 +22,14 @@
 ![Unity](https://img.shields.io/badge/Unity-100000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
+## 📚 Education
+
+- **Graduated from Hankuk University of Foreign Studies (HUFS), GBT (Global Business & Technology) Department**
+- **Second Major in Computer Engineering, Hankuk University of Foreign Studies (HUFS)**
+
+## 🏆 Awards
+
+- **2023 Woongjin ThinkBig Game Challenge - Excellence Award**
 ### Publish
 <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
 
