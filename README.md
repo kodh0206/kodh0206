@@ -59,7 +59,7 @@ educational video games combined with SNG and Wario-like Games.
 Aimed for younger children(6-13) 
 
 ### Samurai IDLE
-<p float="left"> <img src="URL_to_image_of_game_1_4" width="100"></p
+<p float="left"> <img src="https://github.com/kodh0206/kodh0206/blob/master/Samurai.png" width="100"></p
 *On the  Development* is going to be released at the Play Store this March!
 
 
