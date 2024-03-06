@@ -52,13 +52,15 @@ Idle-Merge Game that merges 'cat sushis' to make more luxurious 'cat sushis'
 <img src="https://github.com/kodh0206/kodh0206/blob/master/Think3.jpg" width="200">
 <img src="https://github.com/kodh0206/kodh0206/blob/master/think4.jpg" width="200">
 </p
+
+
 *2023 Woongjin ThinkBig Game Challenge - Excellence Award** Winning Game
 educational video games combined with SNG and Wario-like Games. 
 Aimed for younger children(6-13) 
 
 ### Samurai IDLE
 <p float="left"> <img src="URL_to_image_of_game_1_4" width="100"></p
-*On the  Development* is going to be released this March!
+*On the  Development* is going to be released at the Play Store this March!
 
 
 <div align="center">
