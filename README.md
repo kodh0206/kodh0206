@@ -38,11 +38,21 @@
 Here are some of the games I've developed:
 
 ### Cat Sushi Restraunt
-![Cat Sushi Restraunt](URL_to_image_of_game_1)
+<p float="left">
+  <img src="URL_to_image_of_game_1_1" width="100">
+  <img src="URL_to_image_of_game_1_2" width="100">
+  <img src="URL_to_image_of_game_1_3" width="100">
+  <img src="URL_to_image_of_game_1_4" width="100">
+</p>
 Idle-Merge Game that merges 'cat sushis' to make more luxurious 'cat sushis'  
 
 ### Save Us! Think Island
-![Save Us! Think Island](URL_to_image_of_game_2)
+<p float="left">
+  <img src="URL_to_image_of_game_2_1" width="100">
+  <img src="URL_to_image_of_game_2_2" width="100">
+  <img src="URL_to_image_of_game_2_3" width="100">
+  <img src="URL_to_image_of_game_2_4" width="100">
+</p
 *2023 Woongjin ThinkBig Game Challenge - Excellence Award** Winning Game
 educational video games combined with SNG and Wario-like Games. 
 Aimed for younger children(6-13) 
