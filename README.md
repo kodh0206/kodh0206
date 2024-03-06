@@ -33,24 +33,26 @@
 ### Publish
 <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
 
-<div align="center">
-
-
 ## 🎮 Developed Games
 
 Here are some of the games I've developed:
 
-### Game Title 1
-![Game Title 1](URL_to_image_of_game_1)
-*Short description or notable features of the game.*
+### Cat Sushi Restraunt
+![Cat Sushi Restraunt](URL_to_image_of_game_1)
+Idle-Merge Game that merges 'cat sushis' to make more luxurious 'cat sushis'  
 
-### Game Title 2
-![Game Title 2](URL_to_image_of_game_2)
-*Short description or notable features of the game.*
+### Save Us! Think Island
+![Save Us! Think Island](URL_to_image_of_game_2)
+*2023 Woongjin ThinkBig Game Challenge - Excellence Award** Winning Game
+educational video games combined with SNG and Wario-like Games. 
+Aimed for younger children(6-13) 
 
-### Game Title 3
+### Samurai IDLE
 ![Game Title 3](URL_to_image_of_game_3)
-*Short description or notable features of the game.*
+*On the  Development* is going to be released this March!
+
+
+<div align="center">
   
 <!-- most used language -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodh0206&layout=compact)](https://github.com/kodh0206/github-readme-stats) <!-- Github Status --> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kodh0206)](https://github.com/anuraghazra/github-readme-stats)
