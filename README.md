@@ -58,7 +58,7 @@ educational video games combined with SNG and Wario-like Games.
 Aimed for younger children(6-13) 
 
 ### Samurai IDLE
-![Game Title 3](URL_to_image_of_game_3)
+<p float="left"> <img src="URL_to_image_of_game_1_4" width="100"></p
 *On the  Development* is going to be released this March!
 
 
