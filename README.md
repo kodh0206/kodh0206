@@ -40,7 +40,7 @@ Here are some of the games I've developed:
 ### Cat Sushi Restraunt
 <p float="left">
   <img src="https://github.com/kodh0206/kodh0206/blob/master/KakaoTalk_20240306_234227558_01.jpg" width="100">
-  <img src="(https://github.com/kodh0206/kodh0206/blob/master/KakaoTalk_20240306_234227558.jpg" width="100">
+  <img src="https://github.com/kodh0206/kodh0206/blob/master/KakaoTalk_20240306_234227558.jpg" width="100">
 
 </p>
 Idle-Merge Game that merges 'cat sushis' to make more luxurious 'cat sushis'  
