@@ -2,11 +2,13 @@
 ### :wave: Welcome!
 
 
-<!-- TASTEYOM -->
+<!-- David -->
 
 
-- This is my FIRST PROJECT
-- Full Stack developed
+- Hi I am Donghyun Ko
+- Video Game Developing nerd
+- Football Lover
+- 
 
 ------
 <!-- Language logo-->
@@ -26,6 +28,5 @@
 <div align="center">
   
 <!-- most used language -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodh0206&layout=compact)](https://github.com/kodh0206/github-readme-stats) <!-- Github Status --> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kodh0206&show_icons=true&theme=dracula)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodh0206&layout=compact)](https://github.com/kodh0206/github-readme-stats) <!-- Github Status --> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kodh0206)](https://github.com/anuraghazra/github-readme-stats)
 </div>
