@@ -48,10 +48,10 @@ Idle-Merge Game that merges 'cat sushis' to make more luxurious 'cat sushis'
 
 ### Save Us! Think Island
 <p float="left">
-  <img src="https://github.com/kodh0206/kodh0206/blob/master/Think1.jpg)" width="100">
-  <img src="[URL_to_image_of_game_2_2](https://github.com/kodh0206/kodh0206/blob/master/Think2.jpg)" width="100">
-  <img src="[URL_to_image_of_game_2_3](https://github.com/kodh0206/kodh0206/blob/master/Think3.jpg)" width="100">
-  <img src="[URL_to_image_of_game_2_4](https://github.com/kodh0206/kodh0206/blob/master/Think4.jpg)" width="100">
+ <img src="https://github.com/kodh0206/kodh0206/blob/master/Think1.jpg" width="100">
+<img src="https://github.com/kodh0206/kodh0206/blob/master/Think2.jpg" width="100">
+<img src="https://github.com/kodh0206/kodh0206/blob/master/Think3.jpg" width="100">
+<img src="https://github.com/kodh0206/kodh0206/blob/master/Think4.jpg" width="100">
 </p
 *2023 Woongjin ThinkBig Game Challenge - Excellence Award** Winning Game
 educational video games combined with SNG and Wario-like Games. 
