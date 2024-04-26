@@ -62,6 +62,8 @@ Aimed for younger children(6-13)
 <p float="left"> <img src="https://github.com/kodh0206/kodh0206/blob/master/Samurai.png" width="100"></p>
 *On the  Development* is going to be released at the Play Store this March!
 Check out this video demo of Samurai IDLE:
+
+## 🎬 Video Demo
 [![Video Demo](https://img.youtube.com/vi/_dDZVJMeqtQ/0.jpg)](https://www.youtube.com/watch?v=_dDZVJMeqtQ)
 
 <div align="center">
