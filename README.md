@@ -61,8 +61,8 @@ Aimed for younger children(6-13)
 
 ### Samurai IDLE
 <p float="left"> <img src="https://github.com/kodh0206/kodh0206/blob/master/Samurai.png" width="100"></p>
-*Beta Test is now available to public* is going to be released at the One Store this January!
-Check out this video demo of Samurai IDLE:
+Now On PlayStore!
+https://play.google.com/store/apps/details?id=com.overflow.SamuraiIdleEx
 
 ## 🎬 Video Demo
 [![Video Demo](https://img.youtube.com/vi/_dDZVJMeqtQ/0.jpg)](https://www.youtube.com/watch?v=_dDZVJMeqtQ)
