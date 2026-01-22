@@ -31,7 +31,7 @@
 - **Stadl**  
   *Game Client Programmer*  
   **2025.11 ~ Present**  
-  - Unity / Unreal Engine 기반 게임 클라이언트 개발  
+  - Unity 기반 게임 클라이언트 개발& 유지보수
   - 신규 프로젝트 핵심 시스템 설계 및 구현  
 
 ---
@@ -66,6 +66,10 @@ Mobile RPG (Live Service)
 - 전투 시스템, UI, 이벤트 콘텐츠 구현  
 - 시즌 단위 라이브 업데이트 및 운영
 
+on **Google Play Store**  
+https://play.google.com/store/apps/details?id=com.overflow.SamuraiIdleEx
+on "Apple Store"
+https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%EB%AA%AC-%EC%86%8C%EC%9A%B8-%EC%B2%B4%EC%9D%B4%EC%84%9C-%EC%8B%9C%EC%A6%8C-4/id1361480657
 ---
 
 ### Tag&Run
