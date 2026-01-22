@@ -21,19 +21,22 @@
 
 ## 💼 Experience
 
-- **HidingGames**  
-  *Game Client Programmer*  
-  **2023.06 ~ 2025.10**  
-  - Unity(C#) 기반 모바일 게임 클라이언트 개발  
-  - 라이브 서비스 게임 시스템 및 이벤트 콘텐츠 구현  
-  - UI/UX, 전투 로직, 데이터 연동, 성능 최적화 담당  
+### **HidingGames**
+*Game Client Programmer*  
+**Jun 2023 – Oct 2025**
 
-- **Stadl**  
-  *Game Client Programmer*  
-  **2025.11 ~ Present**  
-  - Unity 기반 게임 클라이언트 개발& 유지보수
-  - 신규 프로젝트 핵심 시스템 설계 및 구현  
+- Developed mobile game clients using **Unity (C#)**
+- Implemented live service game systems and event content
+- Worked on UI/UX, combat logic, data integration, and performance optimization
 
+---
+
+### **Stadl**
+*Game Client Programmer*  
+**Nov 2025 – Present**
+
+- Developed and maintained Unity-based game clients
+- Designed and implemented core systems for new projects
 ---
 
 ## 📚 Education
@@ -61,15 +64,12 @@
 Here are some of the games I've developed:
 
 ### Digimon Soul Chaser – Season 4
-Mobile RPG (Live Service)  
-- Unity 기반 클라이언트 개발  
-- 전투 시스템, UI, 이벤트 콘텐츠 구현  
-- 시즌 단위 라이브 업데이트 및 운영
+Mobile RPG (Live Service)
+- Developed and maintained the Unity-based game client
+- Implemented combat systems, UI features, and live event content
+- Supported seasonal updates and ongoing live service operations
 
-on **Google Play Store**  
-https://play.google.com/store/apps/details?id=com.overflow.SamuraiIdleEx
-on "Apple Store"
-https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%EB%AA%AC-%EC%86%8C%EC%9A%B8-%EC%B2%B4%EC%9D%B4%EC%84%9C-%EC%8B%9C%EC%A6%8C-4/id1361480657
+
 ---
 
 ### Tag&Run
