@@ -118,10 +118,14 @@ https://play.google.com/store/apps/details?id=com.overflow.SamuraiIdleEx
 
 <div align="center">
 
-<!-- Most Used Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodh0206&layout=compact)](https://github.com/kodh0206/github-readme-stats)
+<a href="https://github.com/kodh0206">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodh0206&layout=compact" />
+</a>
 
-<!-- GitHub Stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kodh0206)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+<a href="https://github.com/kodh0206">
+  <img src="https://github-readme-stats.vercel.app/api?username=kodh0206" />
+</a>
 
 </div>
